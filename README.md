@@ -24,4 +24,6 @@ Esse código cria uma animação no título, fazendo o texto vai aparecer e desa
     [✅] 4. Animação da seção home
 Esse código cria uma animação na seção Home. Quando a página carrega, a seção aparece suavemente na tela com um efeito de fade-in e um pequeno movimento de baixo para cima.
 
+    [✅] 4. Animação das seções
+Esse código cria animações nas seções do site. Inicialmente, elas ficam invisíveis e com pequenas transformações. Quando o usuário rola a página e cada seção aparece na tela, um observer ativa a animação, fazendo com que a seção surja suavemente e volte à posição normal. 
 
