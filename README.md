@@ -21,5 +21,7 @@ Esse código permite alternar entre modo claro e modo escuro no site. Ao mudar o
      [✅] 4. Animação do título
 Esse código cria uma animação no título, fazendo o texto vai aparecer e desaparecer letra por letra. Durante a animação, a cor do texto também muda. 
 
+    [✅] 4. Animação da seção home
+Esse código cria uma animação na seção Home. Quando a página carrega, a seção aparece suavemente na tela com um efeito de fade-in e um pequeno movimento de baixo para cima.
 
 
