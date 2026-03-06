@@ -18,5 +18,8 @@ Essa parte do código controla qual link da navegação ficará destacado. Prime
      [✅] 3. Alterna modo claro/escuro
 Esse código permite alternar entre modo claro e modo escuro no site. Ao mudar o tema, a escolha é salva no localStorage, fazendo com que a página carregue novamente com o mesmo tema selecionado anteriormente.
 
-     [ ] 4. Animação de Scroll
+     [✅] 4. Animação do título
+Esse código cria uma animação no título, fazendo o texto vai aparecer e desaparecer letra por letra. Durante a animação, a cor do texto também muda. 
+
+
 
