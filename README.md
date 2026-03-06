@@ -15,6 +15,8 @@ O código realizado controla o menu mobile do site, ao clicar no ícone, classes
      [✅] 2. Navegação ativa
 Essa parte do código controla qual link da navegação ficará destacado. Primeiro, ele seleciona todos os links dentro de .navList. Depois, cria uma função que remove a classe "active" de todos os links e adiciona essa classe apenas ao link que foi clicado. Por fim, adiciona um evento de clique em cada link para executar essa função, fazendo com que o item selecionado fique visualmente marcado na navegação.
 
-     [ ] 3. Formulário com API
+     [✅] 3. Alterna modo claro/escuro
+Esse código permite alternar entre modo claro e modo escuro no site. Ao mudar o tema, a escolha é salva no localStorage, fazendo com que a página carregue novamente com o mesmo tema selecionado anteriormente.
+
      [ ] 4. Animação de Scroll
 
