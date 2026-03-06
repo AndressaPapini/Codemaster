@@ -21,9 +21,11 @@ Esse código permite alternar entre modo claro e modo escuro no site. Ao mudar o
      [✅] 4. Animação do título
 Esse código cria uma animação no título, fazendo o texto vai aparecer e desaparecer letra por letra. Durante a animação, a cor do texto também muda. 
 
-    [✅] 4. Animação da seção home
+    [✅] 5. Animação da seção home
 Esse código cria uma animação na seção Home. Quando a página carrega, a seção aparece suavemente na tela com um efeito de fade-in e um pequeno movimento de baixo para cima.
 
-    [✅] 4. Animação das seções
+    [✅] 6. Animação das seções
 Esse código cria animações nas seções do site. Inicialmente, elas ficam invisíveis e com pequenas transformações. Quando o usuário rola a página e cada seção aparece na tela, um observer ativa a animação, fazendo com que a seção surja suavemente e volte à posição normal. 
 
+    [✅] 7. Botão de voltar ao topo
+Esse código faz o botão “voltar ao topo funcionar. Quando o usuário clica no botão, a página rola suavemente até o topo, em vez de subir de forma instantânea. ⬆️
