@@ -27,3 +27,15 @@ menuIcon.addEventListener('click', () => {
             document.body.style.overflow = 'auto';
         }
     });
+// ============= NAVEGAÇÃO ATIVA =========================
+// Seleciona todos os links de navegação
+const navLinks = document.querySelectorAll('.navList a');
+
+// Função para adicionar a classe "active" ao lik clicado
+function activeLink() {
+    navLinks.forEach(item => item.classList.remove('active')); // Remove a classe "active" de todosos links
+    this.classList.add('active'); // Adiciona a classe "active" ao link clicado
+}
+
+// Adiciona um evento de clique a cada link de navegação
+navLinks.forEach(item => item.addEventListener('click', activeLink));

@@ -8,11 +8,13 @@ o menu mobile não abre e o formulário recarrega a página...
 _Lista de tarefas 📖_
 
      [✅] 1. Menu Mobile
-     
+
 O código realizado controla o menu mobile do site, ao clicar no ícone, classes são adicionadas ou removidas para transformar o ícone em X e mostrar ou esconder a lista de links. Enquanto está aberto, o scroll da página é bloqueado. Quando o usuário seleciona um link ou rola a página, tudo volta ao estado inicial e o scroll é liberado novamente.
 
 
-     [ ] 2. Links Ativos
+     [✅] 2. Navegação ativa
+Essa parte do código controla qual link da navegação ficará destacado. Primeiro, ele seleciona todos os links dentro de .navList. Depois, cria uma função que remove a classe "active" de todos os links e adiciona essa classe apenas ao link que foi clicado. Por fim, adiciona um evento de clique em cada link para executar essa função, fazendo com que o item selecionado fique visualmente marcado na navegação.
+
      [ ] 3. Formulário com API
      [ ] 4. Animação de Scroll
 
