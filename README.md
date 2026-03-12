@@ -36,3 +36,5 @@ Esse código cria um carrossel de projetos no site. Ele permite navegar entre os
      [✅] 9. Formulário de contato
 O código controla o envio do formulário de contato. Quando o usuário envia o formulário, o envio padrão é interrompido, aparece uma mensagem de agradecimento e os dados são enviados usando Fetch API. Se o envio for bem-sucedido, a página é recarregada após 2 segundos; caso contrário, aparece uma mensagem de erro.
 
+      [✅] 10. Animação da seção "sobre mim"
+O código cria uma animação na seção “Sobre Mim”. Ele verifica quando essa parte da página entra na área visível da tela durante o scroll. Quando isso acontece, a classe “visible” é adicionada para ativar a animação, e a verificação é encerrada após ser executada.
