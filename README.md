@@ -28,4 +28,8 @@ Esse código cria uma animação na seção Home. Quando a página carrega, a se
 Esse código cria animações nas seções do site. Inicialmente, elas ficam invisíveis e com pequenas transformações. Quando o usuário rola a página e cada seção aparece na tela, um observer ativa a animação, fazendo com que a seção surja suavemente e volte à posição normal. 
 
     [✅] 7. Botão de voltar ao topo
-Esse código faz o botão “voltar ao topo funcionar. Quando o usuário clica no botão, a página rola suavemente até o topo, em vez de subir de forma instantânea. ⬆️
+Esse código faz o botão “voltar ao topo funcionar. Quando o usuário clica no botão, a página rola suavemente até o topo, em vez de subir de forma instantânea. 
+
+     [✅] 8. Carrossel de projetos
+Esse código cria um carrossel de projetos no site. Ele permite navegar entre os slides usando botões de avançar e voltar, mostrando apenas um projeto por vez. Também possui troca automática a cada 5 segundos, que reinicia quando o usuário interage. Além disso, a rotação automática pausa quando o mouse fica sobre o carrossel e continua quando o mouse sai, garantindo melhor visualização do conteúdo. 
+
