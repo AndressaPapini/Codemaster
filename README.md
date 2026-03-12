@@ -33,3 +33,6 @@ Esse código faz o botão “voltar ao topo funcionar. Quando o usuário clica n
      [✅] 8. Carrossel de projetos
 Esse código cria um carrossel de projetos no site. Ele permite navegar entre os slides usando botões de avançar e voltar, mostrando apenas um projeto por vez. Também possui troca automática a cada 5 segundos, que reinicia quando o usuário interage. Além disso, a rotação automática pausa quando o mouse fica sobre o carrossel e continua quando o mouse sai, garantindo melhor visualização do conteúdo. 
 
+     [✅] 9. Formulário de contato
+O código controla o envio do formulário de contato. Quando o usuário envia o formulário, o envio padrão é interrompido, aparece uma mensagem de agradecimento e os dados são enviados usando Fetch API. Se o envio for bem-sucedido, a página é recarregada após 2 segundos; caso contrário, aparece uma mensagem de erro.
+
